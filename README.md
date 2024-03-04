@@ -1,1 +1,2 @@
-# assets
+## EDClass Public Asset Files
+
